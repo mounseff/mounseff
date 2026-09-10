@@ -1,15 +1,13 @@
 # Hi there 👋, I'm Mostafa Abdelmounseff (Mounseff)
 
-### 📱 Cross-Platform Software Engineer | Flutter & Dart Enthusiast
+### 📱 Mobile App Engineer | Flutter & Dart Enthusiast
 
-I'm a Mobile Application Developer based in Egypt, passionate about building robust, scalable, and user-centric mobile applications. With a solid academic background in business administration and investment principles, I don't just write code; I engineer solutions that deliver real business value.
+I'm a Mobile App Engineer based in Egypt, passionate about building robust, scalable, and user-centric applications. With a solid academic background in business administration and investment principles, I don't just write code; I engineer solutions that deliver real business value.
 
 - 🚀 Currently architecting comprehensive mobile ecosystems (like multi-vendor and booking systems).
 - 💡 Combining technical expertise with a business mindset to build high-performance products.
 - 🎥 Creator of **Code With Mounsef**, sharing programming knowledge and educational content.
 - 🤝 Always open to discussing system architecture, State Management, and innovative Flutter projects.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
