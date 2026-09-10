@@ -51,9 +51,8 @@ I'm a Mobile Application Developer based in Egypt, passionate about building rob
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-stats.svg" alt="Mostafa Abdelmounseff GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Mostafa Abdelmounseff's GitHub Stats" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
