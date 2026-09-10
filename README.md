@@ -46,16 +46,23 @@ I'm a Mobile Application Developer based in Egypt, passionate about building rob
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mounseff&show_icons=true&theme=tokyonight" alt="Mounseff's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounseff&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="./github-stats.svg" alt="Mostafa Abdelmounseff GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monseff/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://portfolio-mounseff.vercel.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/monseff/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-mounseff.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
