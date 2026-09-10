@@ -4,7 +4,7 @@
 
 I'm a Mobile Application Developer based in Egypt, passionate about building robust, scalable, and user-centric mobile applications. With a solid academic background in business administration and investment principles, I don't just write code; I engineer solutions that deliver real business value.
 
-- 🚀 Currently architecting comprehensive mobile ecosystems (like multi-vendor delivery systems).
+- 🚀 Currently architecting comprehensive mobile ecosystems (like multi-vendor and booking systems).
 - 💡 Combining technical expertise with a business mindset to build high-performance products.
 - 🎥 Creator of **Code With Mounsef**, sharing programming knowledge and educational content.
 - 🤝 Always open to discussing system architecture, State Management, and innovative Flutter projects.
@@ -38,10 +38,11 @@ I'm a Mobile Application Developer based in Egypt, passionate about building rob
 
 ### 🚀 Featured Projects
 
-*   📦 **Makank (مكانك):** A complete multi-vendor delivery ecosystem featuring separate applications for Customers, Vendors, and Drivers, architected cleanly with Flutter and BLoC.
-*   ✂️ **Salonk (صالونك):** A seamless salon reservation and appointment scheduling application powered by Flutter and Supabase.
-*   🛍️ **Hawa Secret (7awasecret) & Divinéra:** Dynamic e-commerce web platforms built with React, Vite, and integrated with robust REST APIs.
-*   📸 **Social Media Clone:** A full-stack application mimicking core Instagram functionalities, utilizing Flutter, Firebase, and Supabase for real-time engagement and image storage.
+*   📦 **Makank (مكانك):** A complete **Multi-Vendor Delivery Ecosystem** featuring separate applications for Customers, Vendors, and Drivers, architected cleanly with Flutter.
+*   ✂️ **Glowy (Salon Booking Ecosystem):** A comprehensive system featuring dedicated applications for Customers and Salon Owners/Admins to manage reservations and services seamlessly. Built with Flutter.
+*   🌍 **Yalla Sina:** A **Smart Tourism & Travel Booking Ecosystem** designed to streamline travel experiences, featuring a comprehensive architecture and management dashboard. Built with Flutter.
+*   🛍️ **7awa Secret:** A dynamic e-commerce platform delivered via Flutter (WebView) for a seamless cross-platform shopping experience.
+*   📱 **More (Your Tech Hub):** A tech-focused hub application built utilizing Flutter (WebView).
 
 ---
 
@@ -57,4 +58,4 @@ I'm a Mobile Application Developer based in Egypt, passionate about building rob
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monseff/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FlowCV-green?style=for-the-badge)](https://flowcv.com/https://portfolio-mounseff.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://portfolio-mounseff.vercel.app/)
