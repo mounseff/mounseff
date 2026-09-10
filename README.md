@@ -48,10 +48,8 @@ I'm a Mobile Application Developer based in Egypt, passionate about building rob
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mounseff&show_icons=true&theme=tokyonight" alt="Mounseff's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounseff&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+![Mounseff's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounseff&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounseff&layout=compact&theme=tokyonight)
 
 ---
 
